@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	. "github.com/wwgberlin/wwgb-wolang/wolang"
+	. "github.com/julianbachiller/wwgb-wolang/wolang"
 )
 
 const (

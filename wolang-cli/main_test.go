@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	. "github.com/wwgberlin/wwgb-wolang/wolang"
+	. "github.com/julianbachiller/wwgb-wolang/wolang"
 )
 
 func TestInvalidLargerThanOneAttribute(t *testing.T) {
