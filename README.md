@@ -1,7 +1,9 @@
 # wwgb-wolang
 A demo project for the Women Who Go Berlin presentation @Talon.One HQ.
 
-Steps:
+The purpose of this project is to create an interpreter, wolang. At the Women Who Go meetup, attendees will write missing functionality into the code base. 
+
+Here are the steps we took to create wolang:
 
 Step 1
  - Create plus and strconcat functions
@@ -31,3 +33,8 @@ Step 4
 Step 5
 - Change Eval and/or EvalFCall such that a nested expression can be evaluated
     - example: `nestedExpr := []interface{}{"+", 3, 4, []interface{}{"+", 5, 6}}`
+
+Contributors:
+Ronna Steinberg 
+Julian Bachiller
+Sarah Leu
