@@ -34,7 +34,7 @@ Step 5
 - Change Eval and/or EvalFCall such that a nested expression can be evaluated
     - example: `nestedExpr := []interface{}{"+", 3, 4, []interface{}{"+", 5, 6}}`
 
-Contributors:
-Ronna Steinberg 
-Julian Bachiller
-Sarah Leu
+Contributors:  
+[Ronna Steinberg](https://github.com/ronna-s)   
+[Julian Bachiller](https://github.com/julianbachiller)   
+[Sarah Leu](https://github.com/snleu)   
