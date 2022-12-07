@@ -36,5 +36,5 @@ Step 5
 
 Contributors:  
 [Ronna Steinberg](https://github.com/ronna-s)   
-[Julian Bachiller](https://github.com/julianbachiller)   
+[Julianne Mosca](https://github.com/juliannemosca)   
 [Sarah Leu](https://github.com/snleu)   
